@@ -1,6 +1,6 @@
 {
   "name": "anim8js-jquery",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "http://clickermonkey.github.io/anim8js-jquery",
   "authors": [
     "Philip Diffenderfer <pdiffenderfer@gmail.com>"
@@ -24,6 +24,7 @@
   ],
   "dependencies": {
     "anim8js": "^1.0.0",
-    "anim8js-dom": "^1.0.0"
+    "anim8js-dom": "^1.0.0",
+    "jquery": "*"
   }
 }
