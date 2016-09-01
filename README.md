@@ -2,6 +2,12 @@
 
 [anim8](https://github.com/ClickerMonkey/anim8js) your HTML elements with [jQuery](https://jquery.com/)
 
+### Installation
+
+- Bower: `bower install anim8js-jquery`
+- Node: `npm install anim8js-jquery`
+- Download: [anim8js-jquery](https://raw.githubusercontent.com/ClickerMonkey/anim8js-jquery/master/build/anim8js-jquery.js)
+
 ### jQuery Functions
 
 A few functions are available for jQuery which will help you animate jQuery objects:  
