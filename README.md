@@ -1,12 +1,12 @@
 # anim8js-jquery
 
-[anim8](https://github.com/ClickerMonkey/anim8js) your HTML elements with [jQuery](https://jquery.com/)
+[anim8](https://github.com/anim8js/anim8js) your HTML elements with [jQuery](https://jquery.com/)
 
 ### Installation
 
 - Bower: `bower install anim8js-jquery`
 - Node: `npm install anim8js-jquery`
-- Download: [anim8js-jquery](https://raw.githubusercontent.com/ClickerMonkey/anim8js-jquery/master/build/anim8js-jquery.js)
+- Download: [anim8js-jquery](https://raw.githubusercontent.com/anim8js/anim8js-jquery/master/build/anim8js-jquery.js)
 
 ### jQuery Functions
 
