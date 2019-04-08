@@ -4,6 +4,7 @@ import { FactoryJQuery, SubjectJQuery, AnimatorJQuery, AnimatorsJQuery } from 'a
 
 declare module 'anim8js'
 {
+
   export interface Factories
   {
     'jquery': FactoryJQuery;
@@ -13,5 +14,10 @@ declare module 'anim8js'
   export function anim8s (subject: SubjectJQuery): AnimatorsJQuery;
   export function m8 (subject: SubjectJQuery): AnimatorJQuery;
   export function m8s (subject: SubjectJQuery): AnimatorsJQuery;
+
+  export default function anim8 (subject: SubjectJQuery): AnimatorJQuery;
+  export default function anim8s (subject: SubjectJQuery): AnimatorsJQuery;
+  export default function m8 (subject: SubjectJQuery): AnimatorJQuery;
+  export default function m8s (subject: SubjectJQuery): AnimatorsJQuery;
 
 }

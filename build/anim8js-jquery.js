@@ -1,4 +1,4 @@
-/* anim8js-jquery 1.0.6 - anim8 your HTML elements with jQuery by Philip Diffenderfer */
+/* anim8js-jquery 1.0.7 - anim8 your HTML elements with jQuery by Philip Diffenderfer */
 // UMD (Universal Module Definition)
 (function (root, factory)
 {
