@@ -1,5 +1,5 @@
 
-import JQuery from './types/jquery';
+import './types/jquery';
 import { Animators, Sequence, Animator, Factory } from './types/anim8js';
 import { AttributesDom } from 'anim8js-dom';
 
