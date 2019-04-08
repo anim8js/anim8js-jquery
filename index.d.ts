@@ -8,6 +8,8 @@ declare module 'anim8js-jquery'
   
   export type SubjectJQuery = JQuery;
 
+  export type SubjectsJQuery = SubjectJQuery | SubjectJQuery[];
+
   export type AnimatorJQuery = Animator<AttributesDom, SubjectJQuery>;
 
   export type AnimatorsJQuery = Animators<AttributesDom, SubjectJQuery>;
